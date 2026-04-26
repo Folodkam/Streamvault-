@@ -1,0 +1,8 @@
+version: 1.5.0
+files:
+  - url: StreamVault-Setup-1.5.0.exe
+    sha512: HOJnCNYwcyfBeraaDO4HIOQJHcp2KdI4Yne9X46cwzLiyjocQ+hKpZAeW1x32pRZvM4gqKRduY6Cwl5VmY3UCw==
+    size: 108483853
+path: StreamVault-Setup-1.5.0.exe
+sha512: HOJnCNYwcyfBeraaDO4HIOQJHcp2KdI4Yne9X46cwzLiyjocQ+hKpZAeW1x32pRZvM4gqKRduY6Cwl5VmY3UCw==
+releaseDate: '2026-04-25T06:08:56.364Z'
